@@ -1,10 +1,7 @@
 # Python
-**Python miscellaneous**
+### Descripción del contenido
 
->Quote
->
-[Link to google](www.google.es)
-* item 1.
+Aquí subiré contenido variado en el lenguaje de programación Python:
+* Web scraping.
+* Web Pages con Flask Framework
 
-item 2
-item 3
