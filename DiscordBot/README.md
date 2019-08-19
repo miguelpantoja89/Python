@@ -14,6 +14,7 @@ Ya tenemos configurado nuestro BOT
 Cuando ejecutemos nuestro Script ya podremos interactuar con nuestro BOT
 
 Si estas en Windows, estando en el directorio que se encuentra el .py , puedes ejecutarlo de la siguiente forma
-'''
+
+>
 python discordbot.py
-'''
+>
