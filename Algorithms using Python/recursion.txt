@@ -1,0 +1,7 @@
+Recursion is about how to  break a problem down into a base case and a recursive case. The divide-and- conquer strategy uses this simple  concept to solve hard problems.
+
+Because a recursive function calls itself, it’s easy to write a function incorrectly that ends up in an infinite loop. 
+
+Factorial example use call stack:
+
+A call stack is used for several related purposes, but the main reason for having one is to keep track of the point to which each active subroutine should return control when it finishes executing. 
