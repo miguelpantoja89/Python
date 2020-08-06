@@ -17,3 +17,7 @@
 * ext:pdf —> extensión archivo
 * cache:example.com —> versión caché
 * link:example.com —> webs con links a dicho dominio
+
+<hr>
+
+See more in this [webpage](https://gbhackers.com/latest-google-dorks-list/)
