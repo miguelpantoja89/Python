@@ -20,4 +20,6 @@
 
 <hr>
 
-See more in this [webpage](https://gbhackers.com/latest-google-dorks-list/)
+See more in this [webpage](https://gbhackers.com/latest-google-dorks-list/) <br>
+[Google Hacking DB](https://www.exploit-db.com/google-hacking-database) <br>
+[Make your own search engine](https://programmablesearchengine.google.com/about/)
