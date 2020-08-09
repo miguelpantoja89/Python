@@ -43,6 +43,11 @@ Check mail headers for more info with [MxToolbox](https://mxtoolbox.com/EmailHea
 
 [TweetDeck](https://tweetdeck.twitter.com/)
 
+## ALerts 
+<hr>
+
+[Google alerts](https://www.google.es/alerts)<br>
+[TalkWalker](https://www.talkwalker.com/es/alerts)
 
 ### Other things
 <hr>
