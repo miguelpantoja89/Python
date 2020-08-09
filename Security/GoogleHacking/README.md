@@ -24,9 +24,12 @@ See more in this [webpage](https://gbhackers.com/latest-google-dorks-list/) <br>
 [Google Hacking DB](https://www.exploit-db.com/google-hacking-database) <br>
 [Make your own search engine](https://programmablesearchengine.google.com/about/)
 
-### Whois
+## Whois
 [i-intelligence Book](https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_June-2018_Final.pdf)<br>
 [OSINT Framework](https://osintframework.com/)<br>
 [Ciber Patrulla](https://ciberpatrulla.com/links/)<br>
 [NetBootCamp](https://netbootcamp.org/osinttools/)<br>
-[Domaintools](https://whois.domaintools.com/)
+[Domaintools](https://whois.domaintools.com/) / Free alternative option is [ViewDNS](https://viewdns.info/) like reverse IP lookup /Ip location and good API<br> 
+[IP2Location](https://www.ip2location.com/)
+
+Check mail headers for more info with [MxToolbox](https://mxtoolbox.com/EmailHeaders.aspx) also for whois
