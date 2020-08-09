@@ -42,3 +42,9 @@ Check mail headers for more info with [MxToolbox](https://mxtoolbox.com/EmailHea
 <hr>
 
 [TweetDeck](https://tweetdeck.twitter.com/)
+
+
+### Other things
+<hr>
+
+Programm posts in social medias in [Postcron](https://postcron.com/es/)
