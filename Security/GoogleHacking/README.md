@@ -49,6 +49,13 @@ Check mail headers for more info with [MxToolbox](https://mxtoolbox.com/EmailHea
 [Google alerts](https://www.google.es/alerts)<br>
 [TalkWalker](https://www.talkwalker.com/es/alerts)
 
+### Anonymity
+<hr>
+
+[Tails](https://tails.boum.org/install/) Live usb OS<br>
+Evidencias con [eGarante](https://www.egarante.com/)<br>
+Password Generator [KeePass](https://keepass.info/)
+
 ### Other things
 <hr>
 
