@@ -52,7 +52,7 @@ Check mail headers for more info with [MxToolbox](https://mxtoolbox.com/EmailHea
 ### Anonymity
 <hr>
 
-[Tails](https://tails.boum.org/install/) Live usb OS<br>
+[Tails](https://tails.boum.org/install/) Live usb OS and flash it into usb with [balenaEtcher](https://www.balena.io/etcher/) <br>
 Evidencias con [eGarante](https://www.egarante.com/)<br>
 Password Generator [KeePass](https://keepass.info/)
 
